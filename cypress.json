@@ -1,0 +1,15 @@
+{
+  "env": {
+    "me": {
+      "dados_cadastro": {
+        "nome": "TesteInvalido",
+        "cpf": "14000000",
+        "data": "04/06/1993",
+        "cel": "19999999999",
+        "email": "teste@teste.com",
+        "senha": "1234A!",
+        "cep": "13607740"
+      }
+    }
+  }    
+}

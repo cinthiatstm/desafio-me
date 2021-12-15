@@ -1,0 +1,21 @@
+{
+  "name": "desafio-me",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cinthiatstm"
+  },
+  "author": "Cinthia",
+  "license": "ISC",
+  "dependencies": {
+    "cpf": "^2.0.1",
+    "cypress": "^9.1.1",
+    "faker": "^5.5.3"
+  }
+}
